@@ -11,7 +11,7 @@
 
 ## 💻 Installation Steps
 1. Clone Repository:
-   git clone https://github.com/your-repo/auth-system.git
+   git clone https://github.com/puhalanthi14/user-authentication-system
    cd auth-system
 
 2. Install Dependencies:
